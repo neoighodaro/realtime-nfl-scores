@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Real-time NFL score Chrome extension",
+  "version": "1.0",
+  "description": "A simple Chrome extension to simulate the NFL scores in real-time",
+  "content_security_policy": "script-src 'self' https://js.pusher.com/4.2/pusher.min.js https://stats.pusher.com; object-src 'self'",
+  "browser_action": {
+    "default_icon": "./img/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["notifications", "activeTab"]
+}
