@@ -1,6 +1,6 @@
 # Build a real-time NFL score Chrome extension with notifications
 
-A simple Chrome extension to simulate the NFL scores in real-time.
+A simple Chrome extension to simulate the NFL scores in real-time. [View tutorial](https://pusher.com/tutorials/score-feed-chrome-extension)
 
 ## Prerequisites
 
